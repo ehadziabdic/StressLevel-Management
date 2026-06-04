@@ -1,6 +1,10 @@
-# ⌚ Stress-Level Management via Smartwatch Monitoring
+<div align="center">
 
-A complete end-to-end IoT solution for real-time stress detection. This system utilizes a hybrid Deep Learning model (CNN+GRU) deployed on a Wear OS smartwatch to analyze sensor data, syncs results via Firebase, and visualizes live stress events on a React web dashboard.
+![Project Banner](Documentation/logo.png)
+
+# Stress-Level Management via Smartwatch Monitoring
+
+**A complete end-to-end IoT solution for real-time stress detection. This system utilizes a hybrid Deep Learning model (CNN+GRU) deployed on a Wear OS smartwatch to analyze sensor data, syncs results via Firebase, and visualizes live stress events on a React web dashboard.**
 
 **Academic Project** • Machine Learning: Supervised Tehniques • Faculty of Electrical Engineering (ETF) Sarajevo
 
@@ -11,6 +15,10 @@ A complete end-to-end IoT solution for real-time stress detection. This system u
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?logo=firebase&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</div>
+
+---
 
 ## 📋 Table of Contents
 
